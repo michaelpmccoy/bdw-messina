@@ -1,0 +1,25 @@
+Messina Outline
+
+I. Messina. Statements of Fashion.
+  A. Site Navigation
+    i. Women's
+    ii. Bath
+    iii. Men's
+    iv. Kitchen
+  B. Heading
+    i. Subheading
+  C. Search Field/Button
+  D. About Messina
+    i. Philosophy
+    ii. Privacy Policy
+    iii. Shipping & Returns
+    iv. F.A.Qs
+  E. Footer
+    i. Follow us on Twitter
+    ii. Like us on Facebook
+    iii. Philosophy
+    iv. Privacy Policy
+    v. Shipping & Returns
+    vi. F.A.Qs
+    vii. Contact Us
+    viii. 800.555.12345
