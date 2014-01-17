@@ -1,0 +1,10 @@
+article
+   h1 Big Sur Dining Table
+   img
+   paragraph
+   ul
+     li
+     ...
+   form
+     p $1499
+     input type=submit Add to Cart

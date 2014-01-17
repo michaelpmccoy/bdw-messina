@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+  <style>
+  h1,div,p {
+  	border: solid 1px red;
+  }
+
+  div {
+  	height: 100px;
+  	margin-bottom: 20px;
+  }
+  </style>
+</head>
+<body>
+  <h1>This heading follows page flow</h1>
+
+  <div>
+  This div follows page flow, defaulting to position:static;
+  <p style="position:absolute;">This p is positioned ABSOLUTELY</p>
+  </div>
+
+  <div style="position:relative;">
+  This div follows page flow but is RELATIVELY positioned
+  <p style="position:absolute; bottom:0; right:0;">This paragraph is position absolute. </p>
+  </div>
+</body>
+</html>
